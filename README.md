@@ -11,7 +11,7 @@ https://youtu.be/jWo3Bg04RmQ (minimal version)
 
 ![training dataset sample](sample_dataset.png)
 
-![toolbox gui](samle_gui.jpg)
+![toolbox gui](sample_gui.jpg)
 
 ![kinetics toolbox](kinetics_toolbox.jpg)
 
